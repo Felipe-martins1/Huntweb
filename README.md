@@ -1,1 +1,1 @@
-## Projeto feito utilizando Reactjs, axios
+## Projeto feito utilizando Reactjs e axios
